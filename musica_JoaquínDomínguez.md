@@ -1,8 +1,8 @@
 # Géneros musicales
--Rock
--Psiquedelia
--Heavy metal
+- Rock
+- Psiquedelia
+- Heavy metal
 # Bandas
--Artic Monkeys
--Tame Impala
--Mick Gordon (DOOM)
+- Artic Monkeys
+- Tame Impala
+- Mick Gordon (DOOM)
