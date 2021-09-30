@@ -1,5 +1,5 @@
-int sumatoria (int a, int v)
+int sumatoria (int a, int b)
 
 {
-    return a + v;
+    return a + b;
 }
