@@ -1,6 +1,6 @@
 # Géneros musicales
--Rock 
--Metal
+- Rock 
+- Metal
 # Bandas
--The Beatles
--Kiss
+- The Beatles
+- Kiss
