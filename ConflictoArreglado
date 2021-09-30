@@ -1,0 +1,4 @@
+int suma (int a, inte b)
+{
+  return a+b;
+}
