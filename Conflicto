@@ -1,4 +1,4 @@
-int suma (int a, int v)
+int suma (int a, int b)
 {
-    return a + v;
+    return a + b;
 }
