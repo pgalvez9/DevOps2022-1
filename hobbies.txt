@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 hola estos son mis hobbies 
 
 -nadar
 -correr
 -ping pong 
+=======
+Miguel de Jesús 
+
+-Read 
+-Play PC Games
+-Work out 
+>>>>>>> miguelTest
